@@ -1,0 +1,1033 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1683526066912371, "dur":1402, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066913779, "dur":220, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1683526066914057, "dur":40, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1683526066914097, "dur":480, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1683526066914613, "dur":1193, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066915812, "dur":2, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066970580, "dur":483, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971064, "dur":53, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971117, "dur":10, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971127, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971139, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971143, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971155, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971159, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971168, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971172, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971182, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971185, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971195, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971198, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971210, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971213, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971224, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971228, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971237, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971241, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971253, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971256, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971266, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971270, "dur":12, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971282, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971285, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971294, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971298, "dur":11, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971309, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971312, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971321, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971324, "dur":13, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971337, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971353, "dur":3, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066971398, "dur":1478, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1683526066915631, "dur":205, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683526066915836, "dur":5186, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683526066921046, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1683526066921050, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683526066921142, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1683526066921144, "dur":13, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683526066921159, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1683526066921275, "dur":907, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683526066922182, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683526066922221, "dur":11, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683526066922232, "dur":486, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1683526066922718, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683526066922743, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ec/ecab7c3d8ff1c93999dbcf300e3eadbb.rgb" }}
+,{ "pid":12345, "tid":1, "ts":1683526066922777, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683526066930624, "dur":922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ec/ecab7c3d8ff1c93999dbcf300e3eadbb.rgb" }}
+,{ "pid":12345, "tid":1, "ts":1683526066931559, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/d6/d6de99186ecfbcc80d926685e8b60267.rgb" }}
+,{ "pid":12345, "tid":1, "ts":1683526066931576, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683526066931586, "dur":2576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/d6/d6de99186ecfbcc80d926685e8b60267.rgb" }}
+,{ "pid":12345, "tid":1, "ts":1683526066934181, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/bd/bd450d29c7f3a3035d48163eb873adee.rsc.sse" }}
+,{ "pid":12345, "tid":1, "ts":1683526066934208, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683526066934228, "dur":2517, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/bd/bd450d29c7f3a3035d48163eb873adee.rsc.sse" }}
+,{ "pid":12345, "tid":1, "ts":1683526066936759, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b9/b92199799cdf629e5dcd40b6ceef12cb.vis" }}
+,{ "pid":12345, "tid":1, "ts":1683526066936778, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683526066936788, "dur":3212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b9/b92199799cdf629e5dcd40b6ceef12cb.vis" }}
+,{ "pid":12345, "tid":1, "ts":1683526066940017, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ab/ab3107f82d37403cd6fcedb8af964243.caw" }}
+,{ "pid":12345, "tid":1, "ts":1683526066940045, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683526066940060, "dur":2069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ab/ab3107f82d37403cd6fcedb8af964243.caw" }}
+,{ "pid":12345, "tid":1, "ts":1683526066942147, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a4/a4cfbf3dcb48b1d5725df0b83338ba0f.vis" }}
+,{ "pid":12345, "tid":1, "ts":1683526066942167, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683526066942209, "dur":2251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a4/a4cfbf3dcb48b1d5725df0b83338ba0f.vis" }}
+,{ "pid":12345, "tid":1, "ts":1683526066944474, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/97/975c5c67f17f8b1584009dab02777399.iws.sse" }}
+,{ "pid":12345, "tid":1, "ts":1683526066944514, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683526066944525, "dur":1291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/97/975c5c67f17f8b1584009dab02777399.iws.sse" }}
+,{ "pid":12345, "tid":1, "ts":1683526066945830, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/75/75c6c68a760845d7e63ba03732c631ed.vis" }}
+,{ "pid":12345, "tid":1, "ts":1683526066945849, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683526066945877, "dur":1841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/75/75c6c68a760845d7e63ba03732c631ed.vis" }}
+,{ "pid":12345, "tid":1, "ts":1683526066947739, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/75/75c6c68a760845d7e63ba03732c631ed.caw" }}
+,{ "pid":12345, "tid":1, "ts":1683526066947772, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683526066947786, "dur":4261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/75/75c6c68a760845d7e63ba03732c631ed.caw" }}
+,{ "pid":12345, "tid":1, "ts":1683526066952062, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/63/6324e92aab57c77a4e12d5323f1e5c92.rgb" }}
+,{ "pid":12345, "tid":1, "ts":1683526066952080, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683526066952093, "dur":2558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/63/6324e92aab57c77a4e12d5323f1e5c92.rgb" }}
+,{ "pid":12345, "tid":1, "ts":1683526066954670, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/48/480ee4e71833083d7e97546811d7623b.rsc.sse" }}
+,{ "pid":12345, "tid":1, "ts":1683526066954697, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683526066954714, "dur":2404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/48/480ee4e71833083d7e97546811d7623b.rsc.sse" }}
+,{ "pid":12345, "tid":1, "ts":1683526066957139, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/2f/2f61890d975d5b20085a5231dcb196a4.vis" }}
+,{ "pid":12345, "tid":1, "ts":1683526066957171, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683526066957204, "dur":2044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/2f/2f61890d975d5b20085a5231dcb196a4.vis" }}
+,{ "pid":12345, "tid":1, "ts":1683526066959260, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/22/226c4ee8bfcbeb004c5066092d896f61.caw" }}
+,{ "pid":12345, "tid":1, "ts":1683526066959280, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683526066959290, "dur":2088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/22/226c4ee8bfcbeb004c5066092d896f61.caw" }}
+,{ "pid":12345, "tid":1, "ts":1683526066961393, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/03/031a980207f45f571c60399202042bad.ecm" }}
+,{ "pid":12345, "tid":1, "ts":1683526066961427, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1683526066961437, "dur":1842, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/03/031a980207f45f571c60399202042bad.ecm" }}
+,{ "pid":12345, "tid":1, "ts":1683526066963294, "dur":7303, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683526066916996, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683526066916997, "dur":4157, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683526066921155, "dur":478, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1683526066921634, "dur":189, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683526066921825, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683526066921973, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683526066922010, "dur":305, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683526066922316, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683526066922405, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":2, "ts":1683526066922461, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683526066922546, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ef/efa8733794ac8c63556d9f280c9d79ad.rsc.sse" }}
+,{ "pid":12345, "tid":2, "ts":1683526066922622, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683526066923941, "dur":3352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ef/efa8733794ac8c63556d9f280c9d79ad.rsc.sse" }}
+,{ "pid":12345, "tid":2, "ts":1683526066927308, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ea/eab89848ba4affcfc26dd7b3c57c4012.rsc.sse" }}
+,{ "pid":12345, "tid":2, "ts":1683526066927332, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683526066927347, "dur":3869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ea/eab89848ba4affcfc26dd7b3c57c4012.rsc.sse" }}
+,{ "pid":12345, "tid":2, "ts":1683526066931238, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/e0/e0be24dd4a233a53bab01965db934baa.caw" }}
+,{ "pid":12345, "tid":2, "ts":1683526066931264, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683526066931302, "dur":1904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/e0/e0be24dd4a233a53bab01965db934baa.caw" }}
+,{ "pid":12345, "tid":2, "ts":1683526066933220, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/cd/cd3349e5779b579a3aac71c0646a35b0.rgb" }}
+,{ "pid":12345, "tid":2, "ts":1683526066933239, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683526066933249, "dur":2531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/cd/cd3349e5779b579a3aac71c0646a35b0.rgb" }}
+,{ "pid":12345, "tid":2, "ts":1683526066935797, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b9/b967f40c8f6294db2c579f63257b1080.vis" }}
+,{ "pid":12345, "tid":2, "ts":1683526066935828, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683526066935872, "dur":2208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b9/b967f40c8f6294db2c579f63257b1080.vis" }}
+,{ "pid":12345, "tid":2, "ts":1683526066938093, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b4/b49940e4a0b045f535387c4aad467eab.rsc.sse" }}
+,{ "pid":12345, "tid":2, "ts":1683526066938112, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683526066938123, "dur":1853, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b4/b49940e4a0b045f535387c4aad467eab.rsc.sse" }}
+,{ "pid":12345, "tid":2, "ts":1683526066939998, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ab/ab3107f82d37403cd6fcedb8af964243.ecm" }}
+,{ "pid":12345, "tid":2, "ts":1683526066940029, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683526066940044, "dur":2075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ab/ab3107f82d37403cd6fcedb8af964243.ecm" }}
+,{ "pid":12345, "tid":2, "ts":1683526066942139, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a5/a516b6ea9ee604d49a63c8f1fc31d494.caw" }}
+,{ "pid":12345, "tid":2, "ts":1683526066942168, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683526066942183, "dur":1032, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a5/a516b6ea9ee604d49a63c8f1fc31d494.caw" }}
+,{ "pid":12345, "tid":2, "ts":1683526066943231, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/97/975c5c67f17f8b1584009dab02777399.rsc.sse" }}
+,{ "pid":12345, "tid":2, "ts":1683526066943254, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683526066943265, "dur":2090, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/97/975c5c67f17f8b1584009dab02777399.rsc.sse" }}
+,{ "pid":12345, "tid":2, "ts":1683526066945373, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/8f/8fa841cb50fd39e35fb65beb631a56d3.caw" }}
+,{ "pid":12345, "tid":2, "ts":1683526066945390, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683526066945402, "dur":2813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/8f/8fa841cb50fd39e35fb65beb631a56d3.caw" }}
+,{ "pid":12345, "tid":2, "ts":1683526066948229, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/6b/6b8c257b8798cac091d272126afa82c9.iws.sse" }}
+,{ "pid":12345, "tid":2, "ts":1683526066948248, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683526066948272, "dur":2344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/6b/6b8c257b8798cac091d272126afa82c9.iws.sse" }}
+,{ "pid":12345, "tid":2, "ts":1683526066950629, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/68/68e408f7b4a2be9de577bdd2284965cd.rgb" }}
+,{ "pid":12345, "tid":2, "ts":1683526066950645, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683526066950655, "dur":2292, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/68/68e408f7b4a2be9de577bdd2284965cd.rgb" }}
+,{ "pid":12345, "tid":2, "ts":1683526066952967, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/51/519e2efb479225937587f50cb51aa5a6.vis" }}
+,{ "pid":12345, "tid":2, "ts":1683526066952996, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683526066953039, "dur":2337, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/51/519e2efb479225937587f50cb51aa5a6.vis" }}
+,{ "pid":12345, "tid":2, "ts":1683526066955397, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/41/41ef0bcf0be74c3a763ab58999d6e448.iws.sse" }}
+,{ "pid":12345, "tid":2, "ts":1683526066955447, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683526066955464, "dur":2568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/41/41ef0bcf0be74c3a763ab58999d6e448.iws.sse" }}
+,{ "pid":12345, "tid":2, "ts":1683526066958046, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/22/226c4ee8bfcbeb004c5066092d896f61.vis" }}
+,{ "pid":12345, "tid":2, "ts":1683526066958065, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683526066958085, "dur":1379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/22/226c4ee8bfcbeb004c5066092d896f61.vis" }}
+,{ "pid":12345, "tid":2, "ts":1683526066959476, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/17/176c222bedbf4a0e00fa848f23d38d04.vis" }}
+,{ "pid":12345, "tid":2, "ts":1683526066959498, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683526066959520, "dur":1830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/17/176c222bedbf4a0e00fa848f23d38d04.vis" }}
+,{ "pid":12345, "tid":2, "ts":1683526066961363, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/03/031a980207f45f571c60399202042bad.iws.sse" }}
+,{ "pid":12345, "tid":2, "ts":1683526066961381, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1683526066961391, "dur":1766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/03/031a980207f45f571c60399202042bad.iws.sse" }}
+,{ "pid":12345, "tid":2, "ts":1683526066963170, "dur":7411, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683526066915941, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683526066915942, "dur":5290, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683526066921232, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1683526066921297, "dur":686, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683526066921984, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683526066922026, "dur":345, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683526066922373, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":3, "ts":1683526066922434, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683526066922531, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/f0/f084304347bd37ba891144d871a2e0b7.ecm" }}
+,{ "pid":12345, "tid":3, "ts":1683526066922626, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683526066926281, "dur":1268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/f0/f084304347bd37ba891144d871a2e0b7.ecm" }}
+,{ "pid":12345, "tid":3, "ts":1683526066927566, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ea/eab89848ba4affcfc26dd7b3c57c4012.iws.sse" }}
+,{ "pid":12345, "tid":3, "ts":1683526066927585, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683526066927596, "dur":3496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ea/eab89848ba4affcfc26dd7b3c57c4012.iws.sse" }}
+,{ "pid":12345, "tid":3, "ts":1683526066931109, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/e0/e0be24dd4a233a53bab01965db934baa.rgb" }}
+,{ "pid":12345, "tid":3, "ts":1683526066931136, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683526066931149, "dur":1436, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/e0/e0be24dd4a233a53bab01965db934baa.rgb" }}
+,{ "pid":12345, "tid":3, "ts":1683526066932603, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/d6/d6de99186ecfbcc80d926685e8b60267.caw" }}
+,{ "pid":12345, "tid":3, "ts":1683526066932628, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683526066932638, "dur":2274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/d6/d6de99186ecfbcc80d926685e8b60267.caw" }}
+,{ "pid":12345, "tid":3, "ts":1683526066934932, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/bd/bd450d29c7f3a3035d48163eb873adee.ecm" }}
+,{ "pid":12345, "tid":3, "ts":1683526066934952, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683526066934977, "dur":1999, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/bd/bd450d29c7f3a3035d48163eb873adee.ecm" }}
+,{ "pid":12345, "tid":3, "ts":1683526066936993, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b9/b92199799cdf629e5dcd40b6ceef12cb.rgb" }}
+,{ "pid":12345, "tid":3, "ts":1683526066937039, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683526066937054, "dur":3023, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b9/b92199799cdf629e5dcd40b6ceef12cb.rgb" }}
+,{ "pid":12345, "tid":3, "ts":1683526066940099, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a6/a689a8aefc2b7a4a438d0c9de3587940.rsc.sse" }}
+,{ "pid":12345, "tid":3, "ts":1683526066940135, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683526066940172, "dur":2271, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a6/a689a8aefc2b7a4a438d0c9de3587940.rsc.sse" }}
+,{ "pid":12345, "tid":3, "ts":1683526066942461, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a4/a4cfbf3dcb48b1d5725df0b83338ba0f.ecm" }}
+,{ "pid":12345, "tid":3, "ts":1683526066942488, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683526066942503, "dur":2375, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a4/a4cfbf3dcb48b1d5725df0b83338ba0f.ecm" }}
+,{ "pid":12345, "tid":3, "ts":1683526066944898, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/95/9550a5b7f518d83aef89659f8684202e.iws.sse" }}
+,{ "pid":12345, "tid":3, "ts":1683526066944921, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683526066944935, "dur":2767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/95/9550a5b7f518d83aef89659f8684202e.iws.sse" }}
+,{ "pid":12345, "tid":3, "ts":1683526066947722, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/75/75c6c68a760845d7e63ba03732c631ed.ecm" }}
+,{ "pid":12345, "tid":3, "ts":1683526066947749, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683526066947780, "dur":3819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/75/75c6c68a760845d7e63ba03732c631ed.ecm" }}
+,{ "pid":12345, "tid":3, "ts":1683526066951613, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/63/6324e92aab57c77a4e12d5323f1e5c92.rsc.sse" }}
+,{ "pid":12345, "tid":3, "ts":1683526066951632, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683526066951643, "dur":2554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/63/6324e92aab57c77a4e12d5323f1e5c92.rsc.sse" }}
+,{ "pid":12345, "tid":3, "ts":1683526066954210, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/51/519e2efb479225937587f50cb51aa5a6.ecm" }}
+,{ "pid":12345, "tid":3, "ts":1683526066954228, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683526066954239, "dur":1336, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/51/519e2efb479225937587f50cb51aa5a6.ecm" }}
+,{ "pid":12345, "tid":3, "ts":1683526066955591, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/34/34420952f1cbe4a3caa21bb924551689.vis" }}
+,{ "pid":12345, "tid":3, "ts":1683526066955739, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683526066955774, "dur":1627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/34/34420952f1cbe4a3caa21bb924551689.vis" }}
+,{ "pid":12345, "tid":3, "ts":1683526066957418, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/2f/2f61890d975d5b20085a5231dcb196a4.iws.sse" }}
+,{ "pid":12345, "tid":3, "ts":1683526066957445, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683526066957460, "dur":2743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/2f/2f61890d975d5b20085a5231dcb196a4.iws.sse" }}
+,{ "pid":12345, "tid":3, "ts":1683526066960216, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/17/176c222bedbf4a0e00fa848f23d38d04.iws.sse" }}
+,{ "pid":12345, "tid":3, "ts":1683526066960248, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683526066960258, "dur":1955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/17/176c222bedbf4a0e00fa848f23d38d04.iws.sse" }}
+,{ "pid":12345, "tid":3, "ts":1683526066962231, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1683526066962256, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1683526066962267, "dur":6009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1683526066968297, "dur":2296, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683526066919397, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683526066919398, "dur":1711, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683526066921139, "dur":161, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1683526066921300, "dur":477, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683526066921778, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683526066921815, "dur":36, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683526066921852, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683526066921876, "dur":23, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683526066921900, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683526066921920, "dur":14, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683526066921935, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683526066921978, "dur":22, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683526066922001, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683526066922020, "dur":20, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683526066922040, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683526066922058, "dur":257, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683526066922319, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1683526066922386, "dur":120, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683526066922507, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/f0/f084304347bd37ba891144d871a2e0b7.vis" }}
+,{ "pid":12345, "tid":4, "ts":1683526066922785, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683526066930930, "dur":805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/f0/f084304347bd37ba891144d871a2e0b7.vis" }}
+,{ "pid":12345, "tid":4, "ts":1683526066931747, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/d6/d6de99186ecfbcc80d926685e8b60267.iws.sse" }}
+,{ "pid":12345, "tid":4, "ts":1683526066931779, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683526066931790, "dur":2308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/d6/d6de99186ecfbcc80d926685e8b60267.iws.sse" }}
+,{ "pid":12345, "tid":4, "ts":1683526066934124, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/bd/bd450d29c7f3a3035d48163eb873adee.vis" }}
+,{ "pid":12345, "tid":4, "ts":1683526066934154, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683526066934192, "dur":1705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/bd/bd450d29c7f3a3035d48163eb873adee.vis" }}
+,{ "pid":12345, "tid":4, "ts":1683526066935912, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b9/b967f40c8f6294db2c579f63257b1080.rsc.sse" }}
+,{ "pid":12345, "tid":4, "ts":1683526066935957, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683526066935973, "dur":2536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b9/b967f40c8f6294db2c579f63257b1080.rsc.sse" }}
+,{ "pid":12345, "tid":4, "ts":1683526066938525, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b4/b49940e4a0b045f535387c4aad467eab.rgb" }}
+,{ "pid":12345, "tid":4, "ts":1683526066938553, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683526066938566, "dur":1019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b4/b49940e4a0b045f535387c4aad467eab.rgb" }}
+,{ "pid":12345, "tid":4, "ts":1683526066939604, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ab/ab3107f82d37403cd6fcedb8af964243.vis" }}
+,{ "pid":12345, "tid":4, "ts":1683526066939649, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683526066939683, "dur":2168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ab/ab3107f82d37403cd6fcedb8af964243.vis" }}
+,{ "pid":12345, "tid":4, "ts":1683526066941864, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a5/a516b6ea9ee604d49a63c8f1fc31d494.ecm" }}
+,{ "pid":12345, "tid":4, "ts":1683526066941882, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683526066941892, "dur":1211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a5/a516b6ea9ee604d49a63c8f1fc31d494.ecm" }}
+,{ "pid":12345, "tid":4, "ts":1683526066943120, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/97/975c5c67f17f8b1584009dab02777399.vis" }}
+,{ "pid":12345, "tid":4, "ts":1683526066943146, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683526066943176, "dur":1498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/97/975c5c67f17f8b1584009dab02777399.vis" }}
+,{ "pid":12345, "tid":4, "ts":1683526066944698, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/97/975c5c67f17f8b1584009dab02777399.ecm" }}
+,{ "pid":12345, "tid":4, "ts":1683526066944729, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683526066944745, "dur":1083, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/97/975c5c67f17f8b1584009dab02777399.ecm" }}
+,{ "pid":12345, "tid":4, "ts":1683526066945842, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/75/75c6c68a760845d7e63ba03732c631ed.rsc.sse" }}
+,{ "pid":12345, "tid":4, "ts":1683526066945861, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683526066945886, "dur":2477, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/75/75c6c68a760845d7e63ba03732c631ed.rsc.sse" }}
+,{ "pid":12345, "tid":4, "ts":1683526066948379, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/6b/6b8c257b8798cac091d272126afa82c9.ecm" }}
+,{ "pid":12345, "tid":4, "ts":1683526066948404, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683526066948418, "dur":2366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/6b/6b8c257b8798cac091d272126afa82c9.ecm" }}
+,{ "pid":12345, "tid":4, "ts":1683526066950798, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/68/68e408f7b4a2be9de577bdd2284965cd.ecm" }}
+,{ "pid":12345, "tid":4, "ts":1683526066950816, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683526066950826, "dur":2198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/68/68e408f7b4a2be9de577bdd2284965cd.ecm" }}
+,{ "pid":12345, "tid":4, "ts":1683526066953044, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/51/519e2efb479225937587f50cb51aa5a6.rsc.sse" }}
+,{ "pid":12345, "tid":4, "ts":1683526066953084, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683526066953098, "dur":2356, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/51/519e2efb479225937587f50cb51aa5a6.rsc.sse" }}
+,{ "pid":12345, "tid":4, "ts":1683526066955467, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/41/41ef0bcf0be74c3a763ab58999d6e448.ecm" }}
+,{ "pid":12345, "tid":4, "ts":1683526066955491, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683526066955501, "dur":2249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/41/41ef0bcf0be74c3a763ab58999d6e448.ecm" }}
+,{ "pid":12345, "tid":4, "ts":1683526066957766, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/2a/2ad8624195a1b8d89de8ce67e02ede8a.iws.sse" }}
+,{ "pid":12345, "tid":4, "ts":1683526066957786, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683526066957798, "dur":2765, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/2a/2ad8624195a1b8d89de8ce67e02ede8a.iws.sse" }}
+,{ "pid":12345, "tid":4, "ts":1683526066960580, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/05/0554860acda66b26649613baa5bfdbf9.rgb" }}
+,{ "pid":12345, "tid":4, "ts":1683526066960605, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683526066960615, "dur":2057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/05/0554860acda66b26649613baa5bfdbf9.rgb" }}
+,{ "pid":12345, "tid":4, "ts":1683526066962685, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/level0.resS" }}
+,{ "pid":12345, "tid":4, "ts":1683526066962703, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1683526066962710, "dur":3764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/level0.resS" }}
+,{ "pid":12345, "tid":4, "ts":1683526066966486, "dur":4100, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683526066916396, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683526066916397, "dur":4652, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683526066921050, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1683526066921200, "dur":540, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683526066921744, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683526066921847, "dur":36, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683526066921885, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683526066921926, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683526066921977, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683526066922012, "dur":36, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683526066922049, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.AutoStreamingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683526066922215, "dur":14, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683526066922230, "dur":211, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683526066922441, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683526066922476, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":5, "ts":1683526066922495, "dur":17, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683526066922512, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/f0/f084304347bd37ba891144d871a2e0b7.rgb" }}
+,{ "pid":12345, "tid":5, "ts":1683526066922671, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683526066927660, "dur":2693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/f0/f084304347bd37ba891144d871a2e0b7.rgb" }}
+,{ "pid":12345, "tid":5, "ts":1683526066930371, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/e6/e64271eb77f17b93f907ccfc0139ab72.ecm" }}
+,{ "pid":12345, "tid":5, "ts":1683526066930403, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683526066930418, "dur":7519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/e6/e64271eb77f17b93f907ccfc0139ab72.ecm" }}
+,{ "pid":12345, "tid":5, "ts":1683526066937949, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b4/b49940e4a0b045f535387c4aad467eab.vis" }}
+,{ "pid":12345, "tid":5, "ts":1683526066937969, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683526066937990, "dur":923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b4/b49940e4a0b045f535387c4aad467eab.vis" }}
+,{ "pid":12345, "tid":5, "ts":1683526066938936, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b4/b49940e4a0b045f535387c4aad467eab.ecm" }}
+,{ "pid":12345, "tid":5, "ts":1683526066938966, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683526066938980, "dur":1088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b4/b49940e4a0b045f535387c4aad467eab.ecm" }}
+,{ "pid":12345, "tid":5, "ts":1683526066940083, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a6/a689a8aefc2b7a4a438d0c9de3587940.vis" }}
+,{ "pid":12345, "tid":5, "ts":1683526066940108, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683526066940162, "dur":2222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a6/a689a8aefc2b7a4a438d0c9de3587940.vis" }}
+,{ "pid":12345, "tid":5, "ts":1683526066942404, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a4/a4cfbf3dcb48b1d5725df0b83338ba0f.rgb" }}
+,{ "pid":12345, "tid":5, "ts":1683526066942437, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683526066942451, "dur":2315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a4/a4cfbf3dcb48b1d5725df0b83338ba0f.rgb" }}
+,{ "pid":12345, "tid":5, "ts":1683526066944785, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/97/975c5c67f17f8b1584009dab02777399.caw" }}
+,{ "pid":12345, "tid":5, "ts":1683526066944813, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683526066944827, "dur":1259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/97/975c5c67f17f8b1584009dab02777399.caw" }}
+,{ "pid":12345, "tid":5, "ts":1683526066946108, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/75/75c6c68a760845d7e63ba03732c631ed.rgb" }}
+,{ "pid":12345, "tid":5, "ts":1683526066946135, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683526066946150, "dur":2556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/75/75c6c68a760845d7e63ba03732c631ed.rgb" }}
+,{ "pid":12345, "tid":5, "ts":1683526066948718, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/6b/6b8c257b8798cac091d272126afa82c9.caw" }}
+,{ "pid":12345, "tid":5, "ts":1683526066948733, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683526066948758, "dur":2072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/6b/6b8c257b8798cac091d272126afa82c9.caw" }}
+,{ "pid":12345, "tid":5, "ts":1683526066950843, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/68/68e408f7b4a2be9de577bdd2284965cd.caw" }}
+,{ "pid":12345, "tid":5, "ts":1683526066950861, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683526066950871, "dur":2379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/68/68e408f7b4a2be9de577bdd2284965cd.caw" }}
+,{ "pid":12345, "tid":5, "ts":1683526066953273, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/51/519e2efb479225937587f50cb51aa5a6.iws.sse" }}
+,{ "pid":12345, "tid":5, "ts":1683526066953305, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683526066953318, "dur":2273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/51/519e2efb479225937587f50cb51aa5a6.iws.sse" }}
+,{ "pid":12345, "tid":5, "ts":1683526066955611, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/34/34420952f1cbe4a3caa21bb924551689.rsc.sse" }}
+,{ "pid":12345, "tid":5, "ts":1683526066955745, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683526066955777, "dur":1684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/34/34420952f1cbe4a3caa21bb924551689.rsc.sse" }}
+,{ "pid":12345, "tid":5, "ts":1683526066957477, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/2f/2f61890d975d5b20085a5231dcb196a4.ecm" }}
+,{ "pid":12345, "tid":5, "ts":1683526066957512, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683526066957531, "dur":2743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/2f/2f61890d975d5b20085a5231dcb196a4.ecm" }}
+,{ "pid":12345, "tid":5, "ts":1683526066960289, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/17/176c222bedbf4a0e00fa848f23d38d04.ecm" }}
+,{ "pid":12345, "tid":5, "ts":1683526066960307, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683526066960317, "dur":1977, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/17/176c222bedbf4a0e00fa848f23d38d04.ecm" }}
+,{ "pid":12345, "tid":5, "ts":1683526066962314, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1683526066962399, "dur":23, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683526066962424, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1683526066962461, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1683526066962472, "dur":4513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1683526066966996, "dur":3604, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683526066916909, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683526066916910, "dur":4239, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683526066921151, "dur":320, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1683526066921472, "dur":291, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683526066921767, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683526066921895, "dur":36, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683526066921933, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683526066921973, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683526066922009, "dur":233, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683526066922243, "dur":49, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683526066922294, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683526066922328, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683526066922416, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1683526066922449, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683526066922541, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/f0/f084304347bd37ba891144d871a2e0b7.caw" }}
+,{ "pid":12345, "tid":6, "ts":1683526066922625, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683526066925812, "dur":1295, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/f0/f084304347bd37ba891144d871a2e0b7.caw" }}
+,{ "pid":12345, "tid":6, "ts":1683526066927124, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ea/eab89848ba4affcfc26dd7b3c57c4012.vis" }}
+,{ "pid":12345, "tid":6, "ts":1683526066927191, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683526066927233, "dur":3629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ea/eab89848ba4affcfc26dd7b3c57c4012.vis" }}
+,{ "pid":12345, "tid":6, "ts":1683526066930874, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/e0/e0be24dd4a233a53bab01965db934baa.vis" }}
+,{ "pid":12345, "tid":6, "ts":1683526066930890, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683526066930913, "dur":1174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/e0/e0be24dd4a233a53bab01965db934baa.vis" }}
+,{ "pid":12345, "tid":6, "ts":1683526066932106, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/d6/d6de99186ecfbcc80d926685e8b60267.ecm" }}
+,{ "pid":12345, "tid":6, "ts":1683526066932123, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683526066932133, "dur":2074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/d6/d6de99186ecfbcc80d926685e8b60267.ecm" }}
+,{ "pid":12345, "tid":6, "ts":1683526066934230, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/bd/bd450d29c7f3a3035d48163eb873adee.rgb" }}
+,{ "pid":12345, "tid":6, "ts":1683526066934259, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683526066934274, "dur":2574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/bd/bd450d29c7f3a3035d48163eb873adee.rgb" }}
+,{ "pid":12345, "tid":6, "ts":1683526066936865, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b9/b92199799cdf629e5dcd40b6ceef12cb.rsc.sse" }}
+,{ "pid":12345, "tid":6, "ts":1683526066936889, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683526066936902, "dur":3257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b9/b92199799cdf629e5dcd40b6ceef12cb.rsc.sse" }}
+,{ "pid":12345, "tid":6, "ts":1683526066940180, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a6/a689a8aefc2b7a4a438d0c9de3587940.rgb" }}
+,{ "pid":12345, "tid":6, "ts":1683526066940210, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683526066940225, "dur":2332, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a6/a689a8aefc2b7a4a438d0c9de3587940.rgb" }}
+,{ "pid":12345, "tid":6, "ts":1683526066942573, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a3/a38d89e3aefb0f6bd113bfebd1d72472.vis" }}
+,{ "pid":12345, "tid":6, "ts":1683526066942601, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683526066942631, "dur":2383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a3/a38d89e3aefb0f6bd113bfebd1d72472.vis" }}
+,{ "pid":12345, "tid":6, "ts":1683526066945029, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/95/9550a5b7f518d83aef89659f8684202e.ecm" }}
+,{ "pid":12345, "tid":6, "ts":1683526066945051, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683526066945064, "dur":2773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/95/9550a5b7f518d83aef89659f8684202e.ecm" }}
+,{ "pid":12345, "tid":6, "ts":1683526066947856, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/75/75c2d5dffd7b830fcc453a4375d45c2c.rgb" }}
+,{ "pid":12345, "tid":6, "ts":1683526066947906, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683526066947921, "dur":4482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/75/75c2d5dffd7b830fcc453a4375d45c2c.rgb" }}
+,{ "pid":12345, "tid":6, "ts":1683526066952432, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/62/62183f314f163081e9584b95bf40cf02.vis" }}
+,{ "pid":12345, "tid":6, "ts":1683526066952454, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683526066952480, "dur":2481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/62/62183f314f163081e9584b95bf40cf02.vis" }}
+,{ "pid":12345, "tid":6, "ts":1683526066954978, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/48/480ee4e71833083d7e97546811d7623b.iws.sse" }}
+,{ "pid":12345, "tid":6, "ts":1683526066955000, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683526066955010, "dur":2098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/48/480ee4e71833083d7e97546811d7623b.iws.sse" }}
+,{ "pid":12345, "tid":6, "ts":1683526066957127, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/34/34420952f1cbe4a3caa21bb924551689.caw" }}
+,{ "pid":12345, "tid":6, "ts":1683526066957155, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683526066957171, "dur":1485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/34/34420952f1cbe4a3caa21bb924551689.caw" }}
+,{ "pid":12345, "tid":6, "ts":1683526066958671, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/22/226c4ee8bfcbeb004c5066092d896f61.rgb" }}
+,{ "pid":12345, "tid":6, "ts":1683526066958706, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683526066958720, "dur":2262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/22/226c4ee8bfcbeb004c5066092d896f61.rgb" }}
+,{ "pid":12345, "tid":6, "ts":1683526066960999, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/03/031a980207f45f571c60399202042bad.vis" }}
+,{ "pid":12345, "tid":6, "ts":1683526066961026, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683526066961052, "dur":1548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/03/031a980207f45f571c60399202042bad.vis" }}
+,{ "pid":12345, "tid":6, "ts":1683526066962617, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/level1.resS" }}
+,{ "pid":12345, "tid":6, "ts":1683526066962639, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1683526066962650, "dur":3896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/level1.resS" }}
+,{ "pid":12345, "tid":6, "ts":1683526066966558, "dur":4044, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683526066916259, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683526066916260, "dur":4910, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683526066921171, "dur":213, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1683526066921384, "dur":885, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683526066922269, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683526066922288, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683526066922324, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683526066922337, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683526066922362, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":7, "ts":1683526066922473, "dur":48, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683526066922522, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/f0/f084304347bd37ba891144d871a2e0b7.iws.sse" }}
+,{ "pid":12345, "tid":7, "ts":1683526066922693, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683526066928010, "dur":2492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/f0/f084304347bd37ba891144d871a2e0b7.iws.sse" }}
+,{ "pid":12345, "tid":7, "ts":1683526066930516, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/e6/e64271eb77f17b93f907ccfc0139ab72.caw" }}
+,{ "pid":12345, "tid":7, "ts":1683526066930533, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683526066930543, "dur":8921, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/e6/e64271eb77f17b93f907ccfc0139ab72.caw" }}
+,{ "pid":12345, "tid":7, "ts":1683526066939476, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b4/b49940e4a0b045f535387c4aad467eab.caw" }}
+,{ "pid":12345, "tid":7, "ts":1683526066939494, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683526066939503, "dur":857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b4/b49940e4a0b045f535387c4aad467eab.caw" }}
+,{ "pid":12345, "tid":7, "ts":1683526066940382, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a5/a516b6ea9ee604d49a63c8f1fc31d494.rsc.sse" }}
+,{ "pid":12345, "tid":7, "ts":1683526066940412, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683526066940447, "dur":1988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a5/a516b6ea9ee604d49a63c8f1fc31d494.rsc.sse" }}
+,{ "pid":12345, "tid":7, "ts":1683526066942454, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a4/a4cfbf3dcb48b1d5725df0b83338ba0f.iws.sse" }}
+,{ "pid":12345, "tid":7, "ts":1683526066942482, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683526066942498, "dur":2306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a4/a4cfbf3dcb48b1d5725df0b83338ba0f.iws.sse" }}
+,{ "pid":12345, "tid":7, "ts":1683526066944822, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/95/9550a5b7f518d83aef89659f8684202e.rsc.sse" }}
+,{ "pid":12345, "tid":7, "ts":1683526066944861, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683526066944904, "dur":2689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/95/9550a5b7f518d83aef89659f8684202e.rsc.sse" }}
+,{ "pid":12345, "tid":7, "ts":1683526066947606, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/75/75c6c68a760845d7e63ba03732c631ed.iws.sse" }}
+,{ "pid":12345, "tid":7, "ts":1683526066947632, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683526066947650, "dur":3491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/75/75c6c68a760845d7e63ba03732c631ed.iws.sse" }}
+,{ "pid":12345, "tid":7, "ts":1683526066951153, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/63/6324e92aab57c77a4e12d5323f1e5c92.vis" }}
+,{ "pid":12345, "tid":7, "ts":1683526066951171, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683526066951199, "dur":1536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/63/6324e92aab57c77a4e12d5323f1e5c92.vis" }}
+,{ "pid":12345, "tid":7, "ts":1683526066952754, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/62/62183f314f163081e9584b95bf40cf02.caw" }}
+,{ "pid":12345, "tid":7, "ts":1683526066952829, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683526066952845, "dur":2380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/62/62183f314f163081e9584b95bf40cf02.caw" }}
+,{ "pid":12345, "tid":7, "ts":1683526066955243, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/41/41ef0bcf0be74c3a763ab58999d6e448.vis" }}
+,{ "pid":12345, "tid":7, "ts":1683526066955270, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683526066955295, "dur":2193, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/41/41ef0bcf0be74c3a763ab58999d6e448.vis" }}
+,{ "pid":12345, "tid":7, "ts":1683526066957507, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/2f/2f61890d975d5b20085a5231dcb196a4.caw" }}
+,{ "pid":12345, "tid":7, "ts":1683526066957539, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683526066957557, "dur":2795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/2f/2f61890d975d5b20085a5231dcb196a4.caw" }}
+,{ "pid":12345, "tid":7, "ts":1683526066960365, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/17/176c222bedbf4a0e00fa848f23d38d04.caw" }}
+,{ "pid":12345, "tid":7, "ts":1683526066960381, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683526066960391, "dur":1887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/17/176c222bedbf4a0e00fa848f23d38d04.caw" }}
+,{ "pid":12345, "tid":7, "ts":1683526066962295, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":7, "ts":1683526066962397, "dur":25, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683526066962423, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1683526066962463, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1683526066962474, "dur":5879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1683526066968371, "dur":2197, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683526066917153, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683526066917154, "dur":3870, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683526066921046, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":8, "ts":1683526066921127, "dur":110, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683526066921238, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1683526066921268, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683526066921351, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":8, "ts":1683526066921375, "dur":370, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683526066921748, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683526066921808, "dur":41, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683526066921850, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683526066921911, "dur":31, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683526066921943, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683526066921975, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683526066922029, "dur":180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683526066922209, "dur":14, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683526066922224, "dur":336, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1683526066922561, "dur":31, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683526066922593, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ef/efa8733794ac8c63556d9f280c9d79ad.caw" }}
+,{ "pid":12345, "tid":8, "ts":1683526066922624, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683526066924671, "dur":2303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ef/efa8733794ac8c63556d9f280c9d79ad.caw" }}
+,{ "pid":12345, "tid":8, "ts":1683526066926989, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ec/ecab7c3d8ff1c93999dbcf300e3eadbb.ecm" }}
+,{ "pid":12345, "tid":8, "ts":1683526066927010, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683526066927034, "dur":1735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ec/ecab7c3d8ff1c93999dbcf300e3eadbb.ecm" }}
+,{ "pid":12345, "tid":8, "ts":1683526066928782, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/e6/e64271eb77f17b93f907ccfc0139ab72.rsc.sse" }}
+,{ "pid":12345, "tid":8, "ts":1683526066928799, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683526066928809, "dur":28721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/e6/e64271eb77f17b93f907ccfc0139ab72.rsc.sse" }}
+,{ "pid":12345, "tid":8, "ts":1683526066957550, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/2a/2ad8624195a1b8d89de8ce67e02ede8a.vis" }}
+,{ "pid":12345, "tid":8, "ts":1683526066957578, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683526066957615, "dur":2168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/2a/2ad8624195a1b8d89de8ce67e02ede8a.vis" }}
+,{ "pid":12345, "tid":8, "ts":1683526066959796, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/17/176c222bedbf4a0e00fa848f23d38d04.rsc.sse" }}
+,{ "pid":12345, "tid":8, "ts":1683526066959814, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683526066959824, "dur":2214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/17/176c222bedbf4a0e00fa848f23d38d04.rsc.sse" }}
+,{ "pid":12345, "tid":8, "ts":1683526066962052, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1683526066962073, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1683526066962085, "dur":8420, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1683526066970521, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":8, "ts":1683526066970523, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683526066916652, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683526066916653, "dur":4498, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683526066921151, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1683526066921211, "dur":349, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683526066921564, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683526066921644, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683526066921681, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683526066921752, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683526066921807, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.UIWidgetsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683526066921850, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683526066921886, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683526066921960, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683526066922025, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683526066922061, "dur":259, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683526066922324, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683526066922389, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683526066922487, "dur":232, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":9, "ts":1683526066922719, "dur":21, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683526066922741, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ec/ecab7c3d8ff1c93999dbcf300e3eadbb.rsc.sse" }}
+,{ "pid":12345, "tid":9, "ts":1683526066922763, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683526066930294, "dur":1084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ec/ecab7c3d8ff1c93999dbcf300e3eadbb.rsc.sse" }}
+,{ "pid":12345, "tid":9, "ts":1683526066931396, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/d6/d6de99186ecfbcc80d926685e8b60267.rsc.sse" }}
+,{ "pid":12345, "tid":9, "ts":1683526066931424, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683526066931437, "dur":2616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/d6/d6de99186ecfbcc80d926685e8b60267.rsc.sse" }}
+,{ "pid":12345, "tid":9, "ts":1683526066934072, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/cd/cd3349e5779b579a3aac71c0646a35b0.caw" }}
+,{ "pid":12345, "tid":9, "ts":1683526066934103, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683526066934125, "dur":2167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/cd/cd3349e5779b579a3aac71c0646a35b0.caw" }}
+,{ "pid":12345, "tid":9, "ts":1683526066936306, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b9/b967f40c8f6294db2c579f63257b1080.ecm" }}
+,{ "pid":12345, "tid":9, "ts":1683526066936328, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683526066936341, "dur":3549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b9/b967f40c8f6294db2c579f63257b1080.ecm" }}
+,{ "pid":12345, "tid":9, "ts":1683526066939909, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ab/ab3107f82d37403cd6fcedb8af964243.iws.sse" }}
+,{ "pid":12345, "tid":9, "ts":1683526066939939, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683526066939977, "dur":2191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ab/ab3107f82d37403cd6fcedb8af964243.iws.sse" }}
+,{ "pid":12345, "tid":9, "ts":1683526066942186, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a4/a4cfbf3dcb48b1d5725df0b83338ba0f.rsc.sse" }}
+,{ "pid":12345, "tid":9, "ts":1683526066942215, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683526066942230, "dur":2559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a4/a4cfbf3dcb48b1d5725df0b83338ba0f.rsc.sse" }}
+,{ "pid":12345, "tid":9, "ts":1683526066944810, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/95/9550a5b7f518d83aef89659f8684202e.vis" }}
+,{ "pid":12345, "tid":9, "ts":1683526066944860, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683526066944925, "dur":2873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/95/9550a5b7f518d83aef89659f8684202e.vis" }}
+,{ "pid":12345, "tid":9, "ts":1683526066947815, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/75/75c2d5dffd7b830fcc453a4375d45c2c.vis" }}
+,{ "pid":12345, "tid":9, "ts":1683526066947857, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683526066947874, "dur":4726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/75/75c2d5dffd7b830fcc453a4375d45c2c.vis" }}
+,{ "pid":12345, "tid":9, "ts":1683526066952613, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/62/62183f314f163081e9584b95bf40cf02.iws.sse" }}
+,{ "pid":12345, "tid":9, "ts":1683526066952640, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683526066952657, "dur":2582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/62/62183f314f163081e9584b95bf40cf02.iws.sse" }}
+,{ "pid":12345, "tid":9, "ts":1683526066955253, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/41/41ef0bcf0be74c3a763ab58999d6e448.rsc.sse" }}
+,{ "pid":12345, "tid":9, "ts":1683526066955275, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683526066955309, "dur":2341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/41/41ef0bcf0be74c3a763ab58999d6e448.rsc.sse" }}
+,{ "pid":12345, "tid":9, "ts":1683526066957666, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/2a/2ad8624195a1b8d89de8ce67e02ede8a.rsc.sse" }}
+,{ "pid":12345, "tid":9, "ts":1683526066957692, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683526066957708, "dur":2745, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/2a/2ad8624195a1b8d89de8ce67e02ede8a.rsc.sse" }}
+,{ "pid":12345, "tid":9, "ts":1683526066960475, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/05/0554860acda66b26649613baa5bfdbf9.vis" }}
+,{ "pid":12345, "tid":9, "ts":1683526066960514, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683526066960543, "dur":1563, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/05/0554860acda66b26649613baa5bfdbf9.vis" }}
+,{ "pid":12345, "tid":9, "ts":1683526066962120, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":9, "ts":1683526066962144, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1683526066962154, "dur":4129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":9, "ts":1683526066966295, "dur":4283, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066917411, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066917412, "dur":3640, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066921054, "dur":149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1683526066921204, "dur":555, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066921761, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683526066921799, "dur":16, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066921816, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683526066921833, "dur":17, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066921851, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683526066921877, "dur":21, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066921899, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683526066921917, "dur":27, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066921945, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683526066921961, "dur":17, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066921979, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683526066921999, "dur":19, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066922018, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683526066922037, "dur":137, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066922175, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683526066922191, "dur":19, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066922211, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683526066922228, "dur":22, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066922251, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683526066922384, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066922411, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683526066922425, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066922485, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1683526066922500, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066922546, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ef/efa8733794ac8c63556d9f280c9d79ad.rgb" }}
+,{ "pid":12345, "tid":10, "ts":1683526066922633, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066926762, "dur":1296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ef/efa8733794ac8c63556d9f280c9d79ad.rgb" }}
+,{ "pid":12345, "tid":10, "ts":1683526066928071, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ea/eab89848ba4affcfc26dd7b3c57c4012.caw" }}
+,{ "pid":12345, "tid":10, "ts":1683526066928092, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066928120, "dur":3154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ea/eab89848ba4affcfc26dd7b3c57c4012.caw" }}
+,{ "pid":12345, "tid":10, "ts":1683526066931294, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/d6/d6de99186ecfbcc80d926685e8b60267.vis" }}
+,{ "pid":12345, "tid":10, "ts":1683526066931322, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066931355, "dur":2034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/d6/d6de99186ecfbcc80d926685e8b60267.vis" }}
+,{ "pid":12345, "tid":10, "ts":1683526066933411, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/cd/cd3349e5779b579a3aac71c0646a35b0.ecm" }}
+,{ "pid":12345, "tid":10, "ts":1683526066933440, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066933456, "dur":2477, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/cd/cd3349e5779b579a3aac71c0646a35b0.ecm" }}
+,{ "pid":12345, "tid":10, "ts":1683526066935946, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b9/b967f40c8f6294db2c579f63257b1080.rgb" }}
+,{ "pid":12345, "tid":10, "ts":1683526066935964, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066935975, "dur":2871, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b9/b967f40c8f6294db2c579f63257b1080.rgb" }}
+,{ "pid":12345, "tid":10, "ts":1683526066938868, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b4/b49940e4a0b045f535387c4aad467eab.iws.sse" }}
+,{ "pid":12345, "tid":10, "ts":1683526066938895, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066938910, "dur":1256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b4/b49940e4a0b045f535387c4aad467eab.iws.sse" }}
+,{ "pid":12345, "tid":10, "ts":1683526066940181, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a6/a689a8aefc2b7a4a438d0c9de3587940.iws.sse" }}
+,{ "pid":12345, "tid":10, "ts":1683526066940206, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066940221, "dur":2345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a6/a689a8aefc2b7a4a438d0c9de3587940.iws.sse" }}
+,{ "pid":12345, "tid":10, "ts":1683526066942587, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a3/a38d89e3aefb0f6bd113bfebd1d72472.rsc.sse" }}
+,{ "pid":12345, "tid":10, "ts":1683526066942612, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066942642, "dur":2440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a3/a38d89e3aefb0f6bd113bfebd1d72472.rsc.sse" }}
+,{ "pid":12345, "tid":10, "ts":1683526066945101, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/8f/8fa841cb50fd39e35fb65beb631a56d3.vis" }}
+,{ "pid":12345, "tid":10, "ts":1683526066945131, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066945174, "dur":2870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/8f/8fa841cb50fd39e35fb65beb631a56d3.vis" }}
+,{ "pid":12345, "tid":10, "ts":1683526066948060, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/75/75c2d5dffd7b830fcc453a4375d45c2c.caw" }}
+,{ "pid":12345, "tid":10, "ts":1683526066948100, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066948113, "dur":4509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/75/75c2d5dffd7b830fcc453a4375d45c2c.caw" }}
+,{ "pid":12345, "tid":10, "ts":1683526066952642, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/62/62183f314f163081e9584b95bf40cf02.ecm" }}
+,{ "pid":12345, "tid":10, "ts":1683526066952672, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066952692, "dur":2584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/62/62183f314f163081e9584b95bf40cf02.ecm" }}
+,{ "pid":12345, "tid":10, "ts":1683526066955290, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/41/41ef0bcf0be74c3a763ab58999d6e448.rgb" }}
+,{ "pid":12345, "tid":10, "ts":1683526066955308, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066955317, "dur":2426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/41/41ef0bcf0be74c3a763ab58999d6e448.rgb" }}
+,{ "pid":12345, "tid":10, "ts":1683526066957761, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/2a/2ad8624195a1b8d89de8ce67e02ede8a.rgb" }}
+,{ "pid":12345, "tid":10, "ts":1683526066957786, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066957801, "dur":2719, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/2a/2ad8624195a1b8d89de8ce67e02ede8a.rgb" }}
+,{ "pid":12345, "tid":10, "ts":1683526066960533, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/05/0554860acda66b26649613baa5bfdbf9.rsc.sse" }}
+,{ "pid":12345, "tid":10, "ts":1683526066960553, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066960562, "dur":2081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/05/0554860acda66b26649613baa5bfdbf9.rsc.sse" }}
+,{ "pid":12345, "tid":10, "ts":1683526066962656, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/level1" }}
+,{ "pid":12345, "tid":10, "ts":1683526066962674, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1683526066962680, "dur":4711, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/level1" }}
+,{ "pid":12345, "tid":10, "ts":1683526066967402, "dur":3193, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066917813, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066917814, "dur":3212, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066921046, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1683526066921110, "dur":404, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066921516, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683526066921577, "dur":23, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066921600, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5.exe" }}
+,{ "pid":12345, "tid":11, "ts":1683526066921614, "dur":25, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066921639, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683526066921658, "dur":12, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066921671, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683526066921709, "dur":13, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066921722, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683526066921756, "dur":18, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066921775, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683526066921796, "dur":19, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066921816, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683526066921862, "dur":17, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066921880, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683526066921908, "dur":22, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066921931, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683526066921951, "dur":48, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066922000, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683526066922023, "dur":36, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066922059, "dur":265, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683526066922324, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066922407, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1683526066922444, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066922545, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ef/efa8733794ac8c63556d9f280c9d79ad.vis" }}
+,{ "pid":12345, "tid":11, "ts":1683526066922621, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066923397, "dur":3883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ef/efa8733794ac8c63556d9f280c9d79ad.vis" }}
+,{ "pid":12345, "tid":11, "ts":1683526066927312, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ea/eab89848ba4affcfc26dd7b3c57c4012.rgb" }}
+,{ "pid":12345, "tid":11, "ts":1683526066927351, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066927370, "dur":3825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ea/eab89848ba4affcfc26dd7b3c57c4012.rgb" }}
+,{ "pid":12345, "tid":11, "ts":1683526066931213, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/e0/e0be24dd4a233a53bab01965db934baa.iws.sse" }}
+,{ "pid":12345, "tid":11, "ts":1683526066931247, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066931261, "dur":2035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/e0/e0be24dd4a233a53bab01965db934baa.iws.sse" }}
+,{ "pid":12345, "tid":11, "ts":1683526066933311, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/cd/cd3349e5779b579a3aac71c0646a35b0.iws.sse" }}
+,{ "pid":12345, "tid":11, "ts":1683526066933335, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066933349, "dur":2759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/cd/cd3349e5779b579a3aac71c0646a35b0.iws.sse" }}
+,{ "pid":12345, "tid":11, "ts":1683526066936127, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b9/b967f40c8f6294db2c579f63257b1080.iws.sse" }}
+,{ "pid":12345, "tid":11, "ts":1683526066936154, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066936167, "dur":3537, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b9/b967f40c8f6294db2c579f63257b1080.iws.sse" }}
+,{ "pid":12345, "tid":11, "ts":1683526066939722, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ab/ab3107f82d37403cd6fcedb8af964243.rsc.sse" }}
+,{ "pid":12345, "tid":11, "ts":1683526066939747, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066939761, "dur":1978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ab/ab3107f82d37403cd6fcedb8af964243.rsc.sse" }}
+,{ "pid":12345, "tid":11, "ts":1683526066941751, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a5/a516b6ea9ee604d49a63c8f1fc31d494.iws.sse" }}
+,{ "pid":12345, "tid":11, "ts":1683526066941766, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066941776, "dur":1089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a5/a516b6ea9ee604d49a63c8f1fc31d494.iws.sse" }}
+,{ "pid":12345, "tid":11, "ts":1683526066942879, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a3/a38d89e3aefb0f6bd113bfebd1d72472.caw" }}
+,{ "pid":12345, "tid":11, "ts":1683526066942899, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066942913, "dur":2381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a3/a38d89e3aefb0f6bd113bfebd1d72472.caw" }}
+,{ "pid":12345, "tid":11, "ts":1683526066945314, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/8f/8fa841cb50fd39e35fb65beb631a56d3.ecm" }}
+,{ "pid":12345, "tid":11, "ts":1683526066945348, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066945364, "dur":2830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/8f/8fa841cb50fd39e35fb65beb631a56d3.ecm" }}
+,{ "pid":12345, "tid":11, "ts":1683526066948224, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/6b/6b8c257b8798cac091d272126afa82c9.rgb" }}
+,{ "pid":12345, "tid":11, "ts":1683526066948266, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066948280, "dur":2438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/6b/6b8c257b8798cac091d272126afa82c9.rgb" }}
+,{ "pid":12345, "tid":11, "ts":1683526066950731, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/68/68e408f7b4a2be9de577bdd2284965cd.iws.sse" }}
+,{ "pid":12345, "tid":11, "ts":1683526066950755, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066950786, "dur":2381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/68/68e408f7b4a2be9de577bdd2284965cd.iws.sse" }}
+,{ "pid":12345, "tid":11, "ts":1683526066953186, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/51/519e2efb479225937587f50cb51aa5a6.rgb" }}
+,{ "pid":12345, "tid":11, "ts":1683526066953237, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066953251, "dur":2233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/51/519e2efb479225937587f50cb51aa5a6.rgb" }}
+,{ "pid":12345, "tid":11, "ts":1683526066955503, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/41/41ef0bcf0be74c3a763ab58999d6e448.caw" }}
+,{ "pid":12345, "tid":11, "ts":1683526066955521, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066955532, "dur":2431, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/41/41ef0bcf0be74c3a763ab58999d6e448.caw" }}
+,{ "pid":12345, "tid":11, "ts":1683526066957975, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/2a/2ad8624195a1b8d89de8ce67e02ede8a.caw" }}
+,{ "pid":12345, "tid":11, "ts":1683526066958013, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066958026, "dur":2777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/2a/2ad8624195a1b8d89de8ce67e02ede8a.caw" }}
+,{ "pid":12345, "tid":11, "ts":1683526066960824, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/05/0554860acda66b26649613baa5bfdbf9.caw" }}
+,{ "pid":12345, "tid":11, "ts":1683526066960847, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066960858, "dur":1970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/05/0554860acda66b26649613baa5bfdbf9.caw" }}
+,{ "pid":12345, "tid":11, "ts":1683526066962843, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":11, "ts":1683526066962861, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1683526066962869, "dur":3376, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":11, "ts":1683526066966259, "dur":4340, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683526066918112, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683526066918113, "dur":3044, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683526066921158, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1683526066921265, "dur":702, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683526066921969, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683526066922060, "dur":152, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683526066922213, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683526066922355, "dur":17, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683526066922373, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683526066922398, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683526066922435, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":12, "ts":1683526066922452, "dur":119, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683526066922572, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ef/efa8733794ac8c63556d9f280c9d79ad.iws.sse" }}
+,{ "pid":12345, "tid":12, "ts":1683526066922623, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683526066924275, "dur":2810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ef/efa8733794ac8c63556d9f280c9d79ad.iws.sse" }}
+,{ "pid":12345, "tid":12, "ts":1683526066927100, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ec/ecab7c3d8ff1c93999dbcf300e3eadbb.caw" }}
+,{ "pid":12345, "tid":12, "ts":1683526066927179, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683526066927201, "dur":2447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ec/ecab7c3d8ff1c93999dbcf300e3eadbb.caw" }}
+,{ "pid":12345, "tid":12, "ts":1683526066929664, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/e6/e64271eb77f17b93f907ccfc0139ab72.iws.sse" }}
+,{ "pid":12345, "tid":12, "ts":1683526066929687, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683526066929698, "dur":14400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/e6/e64271eb77f17b93f907ccfc0139ab72.iws.sse" }}
+,{ "pid":12345, "tid":12, "ts":1683526066944112, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/97/975c5c67f17f8b1584009dab02777399.rgb" }}
+,{ "pid":12345, "tid":12, "ts":1683526066944135, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683526066944149, "dur":1043, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/97/975c5c67f17f8b1584009dab02777399.rgb" }}
+,{ "pid":12345, "tid":12, "ts":1683526066945213, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/8f/8fa841cb50fd39e35fb65beb631a56d3.rgb" }}
+,{ "pid":12345, "tid":12, "ts":1683526066945237, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683526066945249, "dur":2817, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/8f/8fa841cb50fd39e35fb65beb631a56d3.rgb" }}
+,{ "pid":12345, "tid":12, "ts":1683526066948083, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/6b/6b8c257b8798cac091d272126afa82c9.vis" }}
+,{ "pid":12345, "tid":12, "ts":1683526066948102, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683526066948140, "dur":1840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/6b/6b8c257b8798cac091d272126afa82c9.vis" }}
+,{ "pid":12345, "tid":12, "ts":1683526066950008, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/68/68e408f7b4a2be9de577bdd2284965cd.vis" }}
+,{ "pid":12345, "tid":12, "ts":1683526066950040, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683526066950069, "dur":2071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/68/68e408f7b4a2be9de577bdd2284965cd.vis" }}
+,{ "pid":12345, "tid":12, "ts":1683526066952154, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/63/6324e92aab57c77a4e12d5323f1e5c92.ecm" }}
+,{ "pid":12345, "tid":12, "ts":1683526066952191, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683526066952203, "dur":2456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/63/6324e92aab57c77a4e12d5323f1e5c92.ecm" }}
+,{ "pid":12345, "tid":12, "ts":1683526066954676, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/48/480ee4e71833083d7e97546811d7623b.rgb" }}
+,{ "pid":12345, "tid":12, "ts":1683526066954700, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683526066954715, "dur":2046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/48/480ee4e71833083d7e97546811d7623b.rgb" }}
+,{ "pid":12345, "tid":12, "ts":1683526066956774, "dur":238, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/34/34420952f1cbe4a3caa21bb924551689.iws.sse" }}
+,{ "pid":12345, "tid":12, "ts":1683526066957022, "dur":15, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683526066957054, "dur":1429, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/34/34420952f1cbe4a3caa21bb924551689.iws.sse" }}
+,{ "pid":12345, "tid":12, "ts":1683526066958496, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/22/226c4ee8bfcbeb004c5066092d896f61.rsc.sse" }}
+,{ "pid":12345, "tid":12, "ts":1683526066958527, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683526066958536, "dur":2235, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/22/226c4ee8bfcbeb004c5066092d896f61.rsc.sse" }}
+,{ "pid":12345, "tid":12, "ts":1683526066960787, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/05/0554860acda66b26649613baa5bfdbf9.ecm" }}
+,{ "pid":12345, "tid":12, "ts":1683526066960813, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683526066960828, "dur":1945, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/05/0554860acda66b26649613baa5bfdbf9.ecm" }}
+,{ "pid":12345, "tid":12, "ts":1683526066962786, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":12, "ts":1683526066962820, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1683526066962828, "dur":3687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":12, "ts":1683526066966528, "dur":4046, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066918320, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066918321, "dur":2724, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066921047, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":13, "ts":1683526066921200, "dur":396, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066921597, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//UnityCrashHandler32.exe" }}
+,{ "pid":12345, "tid":13, "ts":1683526066921655, "dur":11, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066921667, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683526066921703, "dur":10, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066921713, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683526066921729, "dur":10, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066921739, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683526066921758, "dur":21, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066921779, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683526066921794, "dur":13, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066921807, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683526066921818, "dur":9, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066921828, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683526066921843, "dur":12, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066921856, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683526066921869, "dur":12, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066921881, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683526066921898, "dur":16, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066921915, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683526066921936, "dur":13, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066921949, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683526066921986, "dur":14, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066922000, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683526066922015, "dur":30, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066922045, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683526066922061, "dur":133, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066922195, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683526066922215, "dur":11, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066922226, "dur":494, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":13, "ts":1683526066922720, "dur":16, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066922736, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ec/ecab7c3d8ff1c93999dbcf300e3eadbb.vis" }}
+,{ "pid":12345, "tid":13, "ts":1683526066922760, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066929595, "dur":1433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ec/ecab7c3d8ff1c93999dbcf300e3eadbb.vis" }}
+,{ "pid":12345, "tid":13, "ts":1683526066931049, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/e0/e0be24dd4a233a53bab01965db934baa.rsc.sse" }}
+,{ "pid":12345, "tid":13, "ts":1683526066931069, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066931080, "dur":1618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/e0/e0be24dd4a233a53bab01965db934baa.rsc.sse" }}
+,{ "pid":12345, "tid":13, "ts":1683526066932710, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/cd/cd3349e5779b579a3aac71c0646a35b0.vis" }}
+,{ "pid":12345, "tid":13, "ts":1683526066932729, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066932766, "dur":1468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/cd/cd3349e5779b579a3aac71c0646a35b0.vis" }}
+,{ "pid":12345, "tid":13, "ts":1683526066934254, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/bd/bd450d29c7f3a3035d48163eb873adee.iws.sse" }}
+,{ "pid":12345, "tid":13, "ts":1683526066934274, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066934284, "dur":2283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/bd/bd450d29c7f3a3035d48163eb873adee.iws.sse" }}
+,{ "pid":12345, "tid":13, "ts":1683526066936589, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b9/b967f40c8f6294db2c579f63257b1080.caw" }}
+,{ "pid":12345, "tid":13, "ts":1683526066936626, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066936637, "dur":3162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b9/b967f40c8f6294db2c579f63257b1080.caw" }}
+,{ "pid":12345, "tid":13, "ts":1683526066939815, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ab/ab3107f82d37403cd6fcedb8af964243.rgb" }}
+,{ "pid":12345, "tid":13, "ts":1683526066939835, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066939844, "dur":1338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ab/ab3107f82d37403cd6fcedb8af964243.rgb" }}
+,{ "pid":12345, "tid":13, "ts":1683526066941194, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a5/a516b6ea9ee604d49a63c8f1fc31d494.rgb" }}
+,{ "pid":12345, "tid":13, "ts":1683526066941210, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066941219, "dur":1492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a5/a516b6ea9ee604d49a63c8f1fc31d494.rgb" }}
+,{ "pid":12345, "tid":13, "ts":1683526066942729, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a3/a38d89e3aefb0f6bd113bfebd1d72472.ecm" }}
+,{ "pid":12345, "tid":13, "ts":1683526066942755, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066942768, "dur":2441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a3/a38d89e3aefb0f6bd113bfebd1d72472.ecm" }}
+,{ "pid":12345, "tid":13, "ts":1683526066945227, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/8f/8fa841cb50fd39e35fb65beb631a56d3.iws.sse" }}
+,{ "pid":12345, "tid":13, "ts":1683526066945253, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066945266, "dur":2842, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/8f/8fa841cb50fd39e35fb65beb631a56d3.iws.sse" }}
+,{ "pid":12345, "tid":13, "ts":1683526066948129, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/6b/6b8c257b8798cac091d272126afa82c9.rsc.sse" }}
+,{ "pid":12345, "tid":13, "ts":1683526066948153, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066948164, "dur":2184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/6b/6b8c257b8798cac091d272126afa82c9.rsc.sse" }}
+,{ "pid":12345, "tid":13, "ts":1683526066950376, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/68/68e408f7b4a2be9de577bdd2284965cd.rsc.sse" }}
+,{ "pid":12345, "tid":13, "ts":1683526066950406, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066950421, "dur":1667, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/68/68e408f7b4a2be9de577bdd2284965cd.rsc.sse" }}
+,{ "pid":12345, "tid":13, "ts":1683526066952103, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/63/6324e92aab57c77a4e12d5323f1e5c92.iws.sse" }}
+,{ "pid":12345, "tid":13, "ts":1683526066952126, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066952140, "dur":2389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/63/6324e92aab57c77a4e12d5323f1e5c92.iws.sse" }}
+,{ "pid":12345, "tid":13, "ts":1683526066954541, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/51/519e2efb479225937587f50cb51aa5a6.caw" }}
+,{ "pid":12345, "tid":13, "ts":1683526066954573, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066954586, "dur":1371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/51/519e2efb479225937587f50cb51aa5a6.caw" }}
+,{ "pid":12345, "tid":13, "ts":1683526066955969, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/34/34420952f1cbe4a3caa21bb924551689.rgb" }}
+,{ "pid":12345, "tid":13, "ts":1683526066955986, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066955996, "dur":1818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/34/34420952f1cbe4a3caa21bb924551689.rgb" }}
+,{ "pid":12345, "tid":13, "ts":1683526066957827, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/2a/2ad8624195a1b8d89de8ce67e02ede8a.ecm" }}
+,{ "pid":12345, "tid":13, "ts":1683526066957853, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066957862, "dur":2863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/2a/2ad8624195a1b8d89de8ce67e02ede8a.ecm" }}
+,{ "pid":12345, "tid":13, "ts":1683526066960740, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/05/0554860acda66b26649613baa5bfdbf9.iws.sse" }}
+,{ "pid":12345, "tid":13, "ts":1683526066960787, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066960801, "dur":1908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/05/0554860acda66b26649613baa5bfdbf9.iws.sse" }}
+,{ "pid":12345, "tid":13, "ts":1683526066962723, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/level0" }}
+,{ "pid":12345, "tid":13, "ts":1683526066962740, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1683526066962749, "dur":3126, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/level0" }}
+,{ "pid":12345, "tid":13, "ts":1683526066965886, "dur":4702, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683526066918696, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683526066918698, "dur":2462, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683526066921162, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1683526066921290, "dur":706, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683526066921997, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683526066922036, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683526066922060, "dur":260, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683526066922321, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683526066922390, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":14, "ts":1683526066922465, "dur":31, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683526066922497, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":14, "ts":1683526066922623, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683526066925533, "dur":1416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":14, "ts":1683526066926971, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ec/ecab7c3d8ff1c93999dbcf300e3eadbb.iws.sse" }}
+,{ "pid":12345, "tid":14, "ts":1683526066927052, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683526066927071, "dur":1680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ec/ecab7c3d8ff1c93999dbcf300e3eadbb.iws.sse" }}
+,{ "pid":12345, "tid":14, "ts":1683526066928763, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/e6/e64271eb77f17b93f907ccfc0139ab72.vis" }}
+,{ "pid":12345, "tid":14, "ts":1683526066928782, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683526066928804, "dur":8297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/e6/e64271eb77f17b93f907ccfc0139ab72.vis" }}
+,{ "pid":12345, "tid":14, "ts":1683526066937119, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b9/b92199799cdf629e5dcd40b6ceef12cb.iws.sse" }}
+,{ "pid":12345, "tid":14, "ts":1683526066937142, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683526066937156, "dur":3137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b9/b92199799cdf629e5dcd40b6ceef12cb.iws.sse" }}
+,{ "pid":12345, "tid":14, "ts":1683526066940313, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a6/a689a8aefc2b7a4a438d0c9de3587940.ecm" }}
+,{ "pid":12345, "tid":14, "ts":1683526066940344, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683526066940366, "dur":2215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a6/a689a8aefc2b7a4a438d0c9de3587940.ecm" }}
+,{ "pid":12345, "tid":14, "ts":1683526066942599, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a3/a38d89e3aefb0f6bd113bfebd1d72472.rgb" }}
+,{ "pid":12345, "tid":14, "ts":1683526066942643, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683526066942656, "dur":2416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a3/a38d89e3aefb0f6bd113bfebd1d72472.rgb" }}
+,{ "pid":12345, "tid":14, "ts":1683526066945088, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/95/9550a5b7f518d83aef89659f8684202e.caw" }}
+,{ "pid":12345, "tid":14, "ts":1683526066945115, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683526066945129, "dur":2796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/95/9550a5b7f518d83aef89659f8684202e.caw" }}
+,{ "pid":12345, "tid":14, "ts":1683526066947945, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/75/75c2d5dffd7b830fcc453a4375d45c2c.ecm" }}
+,{ "pid":12345, "tid":14, "ts":1683526066947974, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683526066947988, "dur":4606, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/75/75c2d5dffd7b830fcc453a4375d45c2c.ecm" }}
+,{ "pid":12345, "tid":14, "ts":1683526066952612, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/62/62183f314f163081e9584b95bf40cf02.rgb" }}
+,{ "pid":12345, "tid":14, "ts":1683526066952639, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683526066952660, "dur":2445, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/62/62183f314f163081e9584b95bf40cf02.rgb" }}
+,{ "pid":12345, "tid":14, "ts":1683526066955121, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/48/480ee4e71833083d7e97546811d7623b.caw" }}
+,{ "pid":12345, "tid":14, "ts":1683526066955146, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683526066955163, "dur":2163, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/48/480ee4e71833083d7e97546811d7623b.caw" }}
+,{ "pid":12345, "tid":14, "ts":1683526066957340, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/2f/2f61890d975d5b20085a5231dcb196a4.rgb" }}
+,{ "pid":12345, "tid":14, "ts":1683526066957364, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683526066957377, "dur":2440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/2f/2f61890d975d5b20085a5231dcb196a4.rgb" }}
+,{ "pid":12345, "tid":14, "ts":1683526066959833, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/17/176c222bedbf4a0e00fa848f23d38d04.rgb" }}
+,{ "pid":12345, "tid":14, "ts":1683526066959858, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683526066959871, "dur":1977, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/17/176c222bedbf4a0e00fa848f23d38d04.rgb" }}
+,{ "pid":12345, "tid":14, "ts":1683526066961860, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/03/031a980207f45f571c60399202042bad.caw" }}
+,{ "pid":12345, "tid":14, "ts":1683526066961875, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1683526066961885, "dur":1284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/03/031a980207f45f571c60399202042bad.caw" }}
+,{ "pid":12345, "tid":14, "ts":1683526066963179, "dur":7406, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683526066919193, "dur":7, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683526066919201, "dur":1944, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683526066921147, "dur":192, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1683526066921340, "dur":226, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683526066921567, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//UnityPlayer.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683526066921600, "dur":19, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683526066921619, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":15, "ts":1683526066921708, "dur":41, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683526066921751, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683526066921786, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683526066921822, "dur":710, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":15, "ts":1683526066922532, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683526066922587, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ef/efa8733794ac8c63556d9f280c9d79ad.ecm" }}
+,{ "pid":12345, "tid":15, "ts":1683526066922636, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683526066927205, "dur":2291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ef/efa8733794ac8c63556d9f280c9d79ad.ecm" }}
+,{ "pid":12345, "tid":15, "ts":1683526066929508, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/e6/e64271eb77f17b93f907ccfc0139ab72.rgb" }}
+,{ "pid":12345, "tid":15, "ts":1683526066929524, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683526066929533, "dur":7600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/e6/e64271eb77f17b93f907ccfc0139ab72.rgb" }}
+,{ "pid":12345, "tid":15, "ts":1683526066937150, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b9/b92199799cdf629e5dcd40b6ceef12cb.ecm" }}
+,{ "pid":12345, "tid":15, "ts":1683526066937175, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683526066937187, "dur":3122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b9/b92199799cdf629e5dcd40b6ceef12cb.ecm" }}
+,{ "pid":12345, "tid":15, "ts":1683526066940322, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a6/a689a8aefc2b7a4a438d0c9de3587940.caw" }}
+,{ "pid":12345, "tid":15, "ts":1683526066940349, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683526066940367, "dur":2270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a6/a689a8aefc2b7a4a438d0c9de3587940.caw" }}
+,{ "pid":12345, "tid":15, "ts":1683526066942656, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a3/a38d89e3aefb0f6bd113bfebd1d72472.iws.sse" }}
+,{ "pid":12345, "tid":15, "ts":1683526066942682, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683526066942697, "dur":2422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a3/a38d89e3aefb0f6bd113bfebd1d72472.iws.sse" }}
+,{ "pid":12345, "tid":15, "ts":1683526066945137, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/8f/8fa841cb50fd39e35fb65beb631a56d3.rsc.sse" }}
+,{ "pid":12345, "tid":15, "ts":1683526066945182, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683526066945199, "dur":2716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/8f/8fa841cb50fd39e35fb65beb631a56d3.rsc.sse" }}
+,{ "pid":12345, "tid":15, "ts":1683526066947934, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/75/75c2d5dffd7b830fcc453a4375d45c2c.iws.sse" }}
+,{ "pid":12345, "tid":15, "ts":1683526066947965, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683526066947980, "dur":4449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/75/75c2d5dffd7b830fcc453a4375d45c2c.iws.sse" }}
+,{ "pid":12345, "tid":15, "ts":1683526066952441, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/62/62183f314f163081e9584b95bf40cf02.rsc.sse" }}
+,{ "pid":12345, "tid":15, "ts":1683526066952459, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683526066952485, "dur":2580, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/62/62183f314f163081e9584b95bf40cf02.rsc.sse" }}
+,{ "pid":12345, "tid":15, "ts":1683526066955083, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/48/480ee4e71833083d7e97546811d7623b.ecm" }}
+,{ "pid":12345, "tid":15, "ts":1683526066955110, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683526066955125, "dur":2101, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/48/480ee4e71833083d7e97546811d7623b.ecm" }}
+,{ "pid":12345, "tid":15, "ts":1683526066957244, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/2f/2f61890d975d5b20085a5231dcb196a4.rsc.sse" }}
+,{ "pid":12345, "tid":15, "ts":1683526066957290, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683526066957308, "dur":1531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/2f/2f61890d975d5b20085a5231dcb196a4.rsc.sse" }}
+,{ "pid":12345, "tid":15, "ts":1683526066958852, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/22/226c4ee8bfcbeb004c5066092d896f61.ecm" }}
+,{ "pid":12345, "tid":15, "ts":1683526066958871, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683526066958881, "dur":2278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/22/226c4ee8bfcbeb004c5066092d896f61.ecm" }}
+,{ "pid":12345, "tid":15, "ts":1683526066961172, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/03/031a980207f45f571c60399202042bad.rgb" }}
+,{ "pid":12345, "tid":15, "ts":1683526066961190, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683526066961200, "dur":1767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/03/031a980207f45f571c60399202042bad.rgb" }}
+,{ "pid":12345, "tid":15, "ts":1683526066962979, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/boot.config" }}
+,{ "pid":12345, "tid":15, "ts":1683526066963047, "dur":12, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1683526066963060, "dur":7516, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066918829, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066918830, "dur":2203, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066921050, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1683526066921215, "dur":428, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066921646, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683526066921677, "dur":28, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066921705, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683526066921728, "dur":18, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066921749, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683526066921770, "dur":17, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066921788, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683526066921808, "dur":16, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066921825, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683526066921858, "dur":16, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066921875, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683526066921892, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066921917, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683526066921934, "dur":32, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066921967, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683526066921983, "dur":20, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066922004, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683526066922021, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066922056, "dur":155, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683526066922211, "dur":16, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066922228, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683526066922246, "dur":28, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066922275, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683526066922291, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066922330, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683526066922346, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066922385, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683526066922407, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066922443, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":16, "ts":1683526066922478, "dur":29, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066922508, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/f0/f084304347bd37ba891144d871a2e0b7.rsc.sse" }}
+,{ "pid":12345, "tid":16, "ts":1683526066922557, "dur":8, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066923054, "dur":4502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/f0/f084304347bd37ba891144d871a2e0b7.rsc.sse" }}
+,{ "pid":12345, "tid":16, "ts":1683526066927571, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ea/eab89848ba4affcfc26dd7b3c57c4012.ecm" }}
+,{ "pid":12345, "tid":16, "ts":1683526066927588, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066927598, "dur":3607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/ea/eab89848ba4affcfc26dd7b3c57c4012.ecm" }}
+,{ "pid":12345, "tid":16, "ts":1683526066931224, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/e0/e0be24dd4a233a53bab01965db934baa.ecm" }}
+,{ "pid":12345, "tid":16, "ts":1683526066931251, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066931267, "dur":1525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/e0/e0be24dd4a233a53bab01965db934baa.ecm" }}
+,{ "pid":12345, "tid":16, "ts":1683526066932806, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/cd/cd3349e5779b579a3aac71c0646a35b0.rsc.sse" }}
+,{ "pid":12345, "tid":16, "ts":1683526066932825, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066932835, "dur":2827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/cd/cd3349e5779b579a3aac71c0646a35b0.rsc.sse" }}
+,{ "pid":12345, "tid":16, "ts":1683526066935680, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/bd/bd450d29c7f3a3035d48163eb873adee.caw" }}
+,{ "pid":12345, "tid":16, "ts":1683526066935706, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066935720, "dur":1455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/bd/bd450d29c7f3a3035d48163eb873adee.caw" }}
+,{ "pid":12345, "tid":16, "ts":1683526066937193, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b9/b92199799cdf629e5dcd40b6ceef12cb.caw" }}
+,{ "pid":12345, "tid":16, "ts":1683526066937222, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066937236, "dur":3109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/b9/b92199799cdf629e5dcd40b6ceef12cb.caw" }}
+,{ "pid":12345, "tid":16, "ts":1683526066940361, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a5/a516b6ea9ee604d49a63c8f1fc31d494.vis" }}
+,{ "pid":12345, "tid":16, "ts":1683526066940388, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066940425, "dur":2031, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a5/a516b6ea9ee604d49a63c8f1fc31d494.vis" }}
+,{ "pid":12345, "tid":16, "ts":1683526066942474, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a4/a4cfbf3dcb48b1d5725df0b83338ba0f.caw" }}
+,{ "pid":12345, "tid":16, "ts":1683526066942521, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066942536, "dur":2334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/a4/a4cfbf3dcb48b1d5725df0b83338ba0f.caw" }}
+,{ "pid":12345, "tid":16, "ts":1683526066944891, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/95/9550a5b7f518d83aef89659f8684202e.rgb" }}
+,{ "pid":12345, "tid":16, "ts":1683526066944937, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066944951, "dur":2856, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/95/9550a5b7f518d83aef89659f8684202e.rgb" }}
+,{ "pid":12345, "tid":16, "ts":1683526066947823, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/75/75c2d5dffd7b830fcc453a4375d45c2c.rsc.sse" }}
+,{ "pid":12345, "tid":16, "ts":1683526066947865, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066947883, "dur":4423, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/75/75c2d5dffd7b830fcc453a4375d45c2c.rsc.sse" }}
+,{ "pid":12345, "tid":16, "ts":1683526066952317, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/63/6324e92aab57c77a4e12d5323f1e5c92.caw" }}
+,{ "pid":12345, "tid":16, "ts":1683526066952333, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066952343, "dur":2261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/63/6324e92aab57c77a4e12d5323f1e5c92.caw" }}
+,{ "pid":12345, "tid":16, "ts":1683526066954622, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/48/480ee4e71833083d7e97546811d7623b.vis" }}
+,{ "pid":12345, "tid":16, "ts":1683526066954647, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066954681, "dur":2418, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/48/480ee4e71833083d7e97546811d7623b.vis" }}
+,{ "pid":12345, "tid":16, "ts":1683526066957120, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/34/34420952f1cbe4a3caa21bb924551689.ecm" }}
+,{ "pid":12345, "tid":16, "ts":1683526066957147, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066957165, "dur":1548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/34/34420952f1cbe4a3caa21bb924551689.ecm" }}
+,{ "pid":12345, "tid":16, "ts":1683526066958728, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/22/226c4ee8bfcbeb004c5066092d896f61.iws.sse" }}
+,{ "pid":12345, "tid":16, "ts":1683526066958747, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066958757, "dur":2352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/22/226c4ee8bfcbeb004c5066092d896f61.iws.sse" }}
+,{ "pid":12345, "tid":16, "ts":1683526066961122, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/03/031a980207f45f571c60399202042bad.rsc.sse" }}
+,{ "pid":12345, "tid":16, "ts":1683526066961145, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1683526066961155, "dur":1906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"E://8.//1953729__project//Tower Defense Project Unity5.5_Data/GI/level1/03/031a980207f45f571c60399202042bad.rsc.sse" }}
+,{ "pid":12345, "tid":16, "ts":1683526066963074, "dur":7496, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1683526066973922, "dur":3845, "ph":"X", "name": "ProfilerWriteOutput" }
+,
